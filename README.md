@@ -2,7 +2,11 @@
 You upload your local txt/word/pdf file and give a question. 
 AI answers the question only based on texts extracted from your file (rather than information or data from internet unknown sources).
 
-AI论文助手软件（20260220版）使用说明
+免费下载完整版软件，请点击右侧"Releases",谢谢！
+For downloading official software for free, click on "Releases" button on the right. Thank you!
+
+
+AI论文助手软件（20260220版）- 详细介绍
 
 1.	本软件有什么用？传统网页版AI大模型有什么毛病？ 
 Deepseek，Gemini等网页版AI大模型对用户本地上传文件可能“答非所问”：网页版AI在读取本地上传的文件并解答用户提问时，可能不按照本地上传的内容去解答，甚至偷偷掺入不明网页信息源的数据和观点，对快速阅读数万字长文章获取信息的用户造成严重误导。
