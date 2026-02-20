@@ -1,4 +1,4 @@
-# AI-Text-Q-A-Tool-AI-v20260220-
+# AI-Text-Q-A-Tool-AI-v20260220
 You upload your local txt/word/pdf file and give a question. AI answers the question only based on texts extracted from your file. 
 
 AI论文助手软件（20260220版）使用说明
