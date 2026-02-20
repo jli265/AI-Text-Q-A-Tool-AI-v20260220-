@@ -1,12 +1,17 @@
-# AI-Text-Q-A-Tool-AI-v20260220
-You upload your local txt/word/pdf file and give a question. 
-AI answers the question only based on texts extracted from your file (rather than information or data from internet unknown sources).
+# AI-Text-Q&A-Tool-AI-v20260220
 
 免费下载完整版软件，请点击右侧"Releases",谢谢！
+
+上传你的本地txt/word/pdf文本文件并提问，AI严格按照你的文件内容回答(排除了互联网来源不明信息数据的干扰)。
+
 For downloading official software for free, click on "Releases" button on the right. Thank you!
 
+You upload your local txt/word/pdf file and give a question. 
 
-AI论文助手软件（20260220版）- 详细介绍
+AI answers the question only based on texts extracted from your file (rather than information or data from internet unknown sources).
+
+
+### AI论文助手软件（20260220版）- 详细介绍
 
 1.	本软件有什么用？传统网页版AI大模型有什么毛病？ 
 Deepseek，Gemini等网页版AI大模型对用户本地上传文件可能“答非所问”：网页版AI在读取本地上传的文件并解答用户提问时，可能不按照本地上传的内容去解答，甚至偷偷掺入不明网页信息源的数据和观点，对快速阅读数万字长文章获取信息的用户造成严重误导。
@@ -18,5 +23,5 @@ Deepseek，Gemini等网页版AI大模型对用户本地上传文件可能“答�
 免费注册登录后，点击添加领取个人专属免费API Key。点击复制API Key，粘贴到本程序的API Key输入框。注意！不要太频繁点击”AI生成答案”，否则会耗光你的每分钟API Key免费流量并导致无法生成回答，建议每次点击”AI生成答案”间隔15-30秒，避免AI出现“不应期”哈哈！
 AI模型参数默认为0.5，可以不调。如果不懂微调AI模型参数却非得微调，请自行搜索网页学习“AI文本大模型的参数 temperature 和 top_p有什么用，怎么微调？”。两参数越小，答案越严谨。
 
-4.	如您使用软件有问题或建议，可联系AI软件工程师一龙：18620997719 (手机/微信) 。
+3.	如您使用软件有问题或建议，可联系AI软件工程师一龙：18620997719 (手机/微信) 。
 祝您使用愉快，万事如意！
